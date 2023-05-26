@@ -1,2 +1,2 @@
-# tenlikeseven
-Optional Tweaks for my custom Windows ISO
+# TenLikeSeven
+This repo contains optional tweaks for my custom Windows ISO.
